@@ -41,11 +41,17 @@ Seja bem-vindo(a) !!!
 - Bacharel em Sistemas de Informação - 
   Universidade Estácio de Sá - Jan. 2023.
 
+# 📑Certificação
+ - Microsoft Certified: Azure Fundamentals
+- Credencial: 993776727 - Emissão: Jan/2023 
 # 📚 Cursos
 
-- Cisco - Introduction to CyberSecurity
-- Cisco - CyberSecurity Essencials
-- Cisco - Network Essencials
+- Green Tecnologias - Azure Admnistrator (AZ-104) Mar/2023
+- Cisco - Introduction to CyberSecurity - Jun/2020
+- Cisco - CyberSecurity Essencials - Jul/2020
+- Cisco - Network Essencials - Setembro/2020
+- CCAA - Idioma: Inglês - Dez/2015
+- NatchInfo: Técnico de Informática - Out/2010
 
 # 📚Eventos / Treinamentos
 
